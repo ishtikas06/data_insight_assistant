@@ -1,0 +1,23 @@
+[project]
+name = "data-insight-assistant"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Ishtika Sinha",email = "ishtika.sinha@coditas.com"}
+]
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "groq (>=0.32.0,<0.33.0)",
+    "pydantic (>=2.12.2,<3.0.0)",
+    "pydantic-settings (>=2.11.0,<3.0.0)",
+    "fastapi (>=0.119.0,<0.120.0)",
+    "uvicorn (>=0.37.0,<0.38.0)"
+]
+
+[tool.poetry]
+packages = [{include = "user_insight_assistant", from = "src"}]
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

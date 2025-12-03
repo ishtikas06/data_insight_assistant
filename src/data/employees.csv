@@ -1,0 +1,16 @@
+id,name,department,role,salary,experience,location,performance_rating
+1,Alice,HR,Recruiter,60000,3,New York,4
+2,Bob,Engineering,Software Engineer,90000,5,San Francisco,5
+3,Charlie,Marketing,SEO Specialist,55000,2,Boston,3
+4,David,Engineering,Senior Developer,95000,6,San Francisco,5
+5,Eve,HR,HR Manager,65000,4,New York,4
+6,Frank,Sales,Sales Executive,58000,3,Chicago,3
+7,Grace,Finance,Financial Analyst,70000,4,New York,4
+8,Hank,Engineering,DevOps Engineer,87000,5,Austin,4
+9,Ivy,Marketing,Content Strategist,62000,3,Boston,5
+10,Jack,Sales,Account Manager,75000,5,Chicago,4
+11,Karen,Finance,Accountant,67000,3,New York,3
+12,Leo,Engineering,Data Scientist,98000,7,San Francisco,5
+13,Mia,Engineering,ML Engineer,92000,6,Austin,5
+14,Noah,Sales,Sales Manager,80000,6,Chicago,5
+15,Olivia,HR,HR Coordinator,58000,2,New York,3
